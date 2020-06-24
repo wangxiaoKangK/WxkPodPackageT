@@ -1,6 +1,6 @@
 //
-//  WxkPodPackageTTTTests.m
-//  WxkPodPackageTTTTests
+//  WXKAAATests.m
+//  WXKAAATests
 //
 //  Created by 王晓康 on 2020/6/24.
 //  Copyright © 2020 wangxiaokang. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface WxkPodPackageTTTTests : XCTestCase
+@interface WXKAAATests : XCTestCase
 
 @end
 
-@implementation WxkPodPackageTTTTests
+@implementation WXKAAATests
 
 - (void)setUp {
     // Put setup code here. This method is called before the invocation of each test method in the class.
